@@ -1,4 +1,4 @@
-* {
+/* * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -74,4 +74,11 @@
     color: #fff;
     padding: 5px;
     margin: 5px;
-  }
+  } */
+
+  /* task-13 */
+
+  #my-box{
+    background-color:wheat;
+    width: fit-content;
+}
